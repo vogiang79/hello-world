@@ -1,0 +1,1 @@
+Tạo một tập tin với nội dung bất kì trên kho chứa (ví dụ test.txt), thực hiện commit tập tin
